@@ -1,0 +1,31 @@
+{
+    "name": "angular-freebox-common",
+    "version": "1.0.0",
+    "homepage": "https://github.com/xelita/angular-freebox-common",
+    "authors": [
+        "xelita <admin@xelita.com>"
+    ],
+    "description": "Common AngularJS Module to deal with Freebox OS API",
+    "main": "src/freeboxCommonModule.js",
+    "keywords": [
+        "angular",
+        "freebox os"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "devDependencies": {
+        "angular": "~1.2.3",
+        "angular-mocks": "~1.2.3"
+    },
+    "dependencies": {
+        "angular": "~1.2.3"
+    }
+}
+
+     
