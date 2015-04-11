@@ -1,6 +1,6 @@
-# [angular-freebox-common][![Build Status](https://travis-ci.org/xelita/angular-freebox-common.png?branch=master)](https://travis-ci.org/xelita/angular-freebox-common)
+bo [angular-freebox-common][![Build Status](https://travis-ci.org/xelita/angular-freebox-common.png?branch=master)](https://travis-ci.org/xelita/angular-freebox-common)
 
-Common AngularJS Module to use Freebox OS API.
+Common AngularJS Module to use Freebox OS API (http://dev.freebox.fr/sdk/os/).
 
 ## Quick start
 
