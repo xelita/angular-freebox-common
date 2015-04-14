@@ -1,19 +1,22 @@
-bo [angular-freebox-common][![Build Status](https://travis-ci.org/xelita/angular-freebox-common.png?branch=master)](https://travis-ci.org/xelita/angular-freebox-common)
+[![Bower version](https://badge.fury.io/bo/angular-base64-codec.svg)](http://badge.fury.io/bo/angular-base64-codec)
+[![Build Status](https://travis-ci.org/xelita/angular-base64.png?branch=master)](https://travis-ci.org/xelita/angular-base64)
+[![Coverage Status](https://coveralls.io/repos/xelita/angular-base64/badge.svg)](https://coveralls.io/r/xelita/angular-base64)
+[angular-freebox-common]
 
 Common AngularJS Module to use Freebox OS API (http://dev.freebox.fr/sdk/os/).
 
 ## Quick start
 
-+ Include freeboxCommonModule.js in your application.
++ Include the library in your application.
 
 ```html
-<script src="js/freeboxCommonModule.js"></script>
+<script src="js/angular-freebox-common.js"></script>
 ```
 
 or use the minified version:
 
 ```html
-<script src="js/freeboxCommonModule.min.js"></script>
+<script src="js/angular-freebox-common.min.js"></script>
 ```
 
 + Add the module `fbCommonModule` as a dependency to your app module:
@@ -39,7 +42,7 @@ The project is tested with `jasmine` running on `karma`.
 
 ``` bash
 $ npm install
-$ npm run bower
+$ bower install
 $ npm test
 ```
 
